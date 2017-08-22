@@ -1,7 +1,3 @@
-body{
-	background-image: url("http://2.bp.blogspot.com/-n9TBvfvXfFE/UfuY9BaJbVI/AAAAAAAABvg/vPIq7egb4N0/s1600/Background+Wallpapers18.jpg");
-}
-
 .iron-man-heading{
 	color: red;
 	font-size: 40px;
@@ -9,23 +5,14 @@ body{
 	text-align: center;
 }
 
-h3{
-	color: red;
-	font-size: 30px;
-}
-
-.allies{
+.allies-enemies{
 	color: white;
 }
 
-.enemies{
+.allies-enemies{
 	color: white;
 }
 
-li{
-	font-size: 20px;
-}
-
-#wife{
+#iron-mans-wife{
 	color:red;
 }
